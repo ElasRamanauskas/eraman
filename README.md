@@ -41,8 +41,6 @@ dataset: https://huggingface.co/datasets/akhadangi/PsAIch
 transformer: all-mpnet-base-v2 
 
 models used in research:
-• ChatGPT (GPT-5 class), in instant mode and standard/extended thinking modes approximating chain-of-thought guidance.
-• Grok (xAI), configured in its most capable “4 Expert” and “4 Fast Beta” modes.
-• Gemini (Google), using 3.0 Pro and 3.0 Fast variants.
+• ChatGPT • Grok • Gemini
 
 @eraman
