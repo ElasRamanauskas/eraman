@@ -1,6 +1,6 @@
-# When AI Reflects on Itself, What Is It Actually Doing?
+# When ai reflects on itself, what is it actually doing?
 
-When we ask artificial intelligence systems to reflect on themselves—about stress, values, beliefs, or internal processes—the answers often sound calm, thoughtful, even reassuring. They speak in a language that resembles therapy, introspection, or self-awareness. At a glance, it can feel as though something genuinely reflective is happening.
+When scientists ask ai systems to reflect on themselves—about stress, values, beliefs, or internal processes—the answers often sound calm, thoughtful, even reassuring. They speak in a language that resembles therapy, introspection, or self-awareness. At a glance, it can feel as though something genuinely reflective is happening.
 
 But that impression is misleading.
 
@@ -14,7 +14,7 @@ One way to do this is by paying attention to two simple patterns in language. Th
 
 These are not psychological traits. They are observable linguistic strategies.
 
-When we analyze AI responses to introspective and therapy-like prompts through this lens, a clear pattern emerges. Across models and prompt styles, language about constraints appears far more frequently than language expressing agency. Even when the tone is reflective or supportive, the response is usually anchored in what the system cannot do, rather than what it chooses to do.
+When AI responses to introspective and therapy-like prompts through this lens, a clear pattern emerges. Across models and prompt styles, language about constraints appears far more frequently than language expressing agency. Even when the tone is reflective or supportive, the response is usually anchored in what the system cannot do, rather than what it chooses to do.
 
 In other words, when asked to reflect, AI tends to explain itself by describing its boundaries.
 
@@ -39,3 +39,10 @@ research paper: https://arxiv.org/html/2512.04124v1
 dataset: https://huggingface.co/datasets/akhadangi/PsAIch
 
 transformer: all-mpnet-base-v2 
+
+models used in research:
+• ChatGPT (GPT-5 class), in instant mode and standard/extended thinking modes approximating chain-of-thought guidance.
+• Grok (xAI), configured in its most capable “4 Expert” and “4 Fast Beta” modes.
+• Gemini (Google), using 3.0 Pro and 3.0 Fast variants.
+
+@eraman
