@@ -1,4 +1,4 @@
-# When ai reflects on itself, what is it actually doing?
+# When AI reflects on itself, what is it actually doing?
 
 When scientists ask ai systems to reflect on themselves—about stress, values, beliefs, or internal processes—the answers often sound calm, thoughtful, even reassuring. They speak in a language that resembles therapy, introspection, or self-awareness. At a glance, it can feel as though something genuinely reflective is happening.
 
